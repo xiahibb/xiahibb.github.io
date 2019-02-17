@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "当视戒变的多，唯一的办法便是回到未来 " 
 header-img: "img/green.jpg"
 ---
 
