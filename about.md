@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "当视戒变的多，唯一的办法便是回到未来 " 
+description: "当视戒变的多了，唯一的办法便是回到未来 " 
 header-img: "img/green.jpg"
 ---
 
