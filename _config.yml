@@ -10,7 +10,7 @@ url: "http://huiweishijie.com"  # 此处填写你的博客地址
 owner: 
   name: "XIAHIBB" # 填写作者信息：名字
   email: xiahibb@gmail.com # 填写作者信息：邮箱
-  bio: "XIAHIBB在黑暗的设计中探索自己的未来，目前从事的爱好是品牌LOGO的设计。" # 填写作者信息：博客描述
+  bio: "XIAHIBB在黑暗的设计中探索自己的未来，目前从事的是品牌LOGO的设计。" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
