@@ -1,6 +1,6 @@
 # Site settings
 title: 回未视戒 # 你的博客名字，可以定义修订
-header-img: "<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />"
+header-img: "img/green.jpg"
 tagline: "cn"  
 description: "当视戒变的多，唯一的办法便是回到未来"  # 一句话描述你的博客
 baseurl: ""
@@ -13,7 +13,7 @@ owner:
   bio: "XIAHIBB在黑暗的设计中探索自己的未来，目前从事的是品牌LOGO的设计。" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: "https://github.com/account" # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
