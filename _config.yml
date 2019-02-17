@@ -16,12 +16,12 @@ owner:
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
-douban_username: https://www.douban.com/people/141631625/ # 你的豆瓣id
+douban_username:  # 你的豆瓣id
 twitter_username:   
-github_username: https://github.com/xiahibb
+github_username: 
 facebook_username: 
 weibo_username: 
-zhihu_username: https://www.zhihu.com/people/jiang-yixia-32/activities
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
