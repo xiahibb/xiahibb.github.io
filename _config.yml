@@ -1,6 +1,6 @@
 # Site settings
 title: 回未视戒 # 你的博客名字，可以定义修订
-header-img: "img/green.jpg"
+header-img: "<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />"
 tagline: "cn"  
 description: "当视戒变的多，唯一的办法便是回到未来"  # 一句话描述你的博客
 baseurl: ""
