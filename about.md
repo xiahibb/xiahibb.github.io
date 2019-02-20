@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "当视戒变的多了，唯一的办法便是回到未来 " 
+description: "关于生活 " 
 header-img: "img/green.jpg"
 ---
 
@@ -26,7 +26,8 @@ header-img: "img/green.jpg"
 
 ## 最近在干嘛？
 
-- 2019-2网站的优化;
+- 2019-02网站的优化;
+- 2019-02毕业设计的思考;
 
 
 ## 坚信
