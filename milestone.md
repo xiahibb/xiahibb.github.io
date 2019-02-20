@@ -23,7 +23,7 @@ header-img: "img/zhihu.jpg"
 
 ## 微信公众号
 
-[为塔设计事务所]（https://dwz.cn/Pms0EAw6）
+[为塔设计事务所]（https://dwz.cn/Pms0EAw6)
 
 
 ## 未完待续
