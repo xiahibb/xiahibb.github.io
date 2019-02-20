@@ -21,7 +21,7 @@ header-img: "img/zhihu.jpg"
 
 ## 微信公众号
 
-[为塔设计事务所]（https://mp.weixin.qq.com/profile?src=3&timestamp=1550630553&ver=1&signature=*XJ*JX2zgg3X5i9zd91kHAl8tIwqO8Jo2RsvR-lNC3G9AS2ZL2vCY*spcz1N0SPgCgsWWFOpooGz5*75wieBbg==）
+[为塔设计事务所]（https://dwz.cn/Pms0EAw6）
 
 
 ## 未完待续
