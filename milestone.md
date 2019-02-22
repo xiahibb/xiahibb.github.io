@@ -26,8 +26,8 @@ header-img: "img/zhihu.jpg"
 
 ## 微信公众号
 
-[为塔设计事务所](https://dwz.cn/8igtHNCr)
-- https://dwz.cn/8igtHNCr
+[为塔设计事务所](http://t.im/cdy1)
+- http://t.im/cdy1
 
 
 ## 未完待续
