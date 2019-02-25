@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 乡村旅游俗雅秀
+title: 乡村旅游创新案例俗雅秀
 date: 2019-2-23
 categories: blog
 tags: [乡村,读书]
