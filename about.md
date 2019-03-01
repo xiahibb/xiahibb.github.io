@@ -54,6 +54,7 @@ header-img: "img/green.jpg"
 - 2019-2-17修复DNS
 - 2019-2-16基础信息
 
+## 小统计
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv">本页总访问量<span id="busuanzi_value_site_pv"></span>次</span>
