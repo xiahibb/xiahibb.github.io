@@ -42,11 +42,6 @@ header-img: "img/zhihu.jpg"
 
 - 2019.2.20 增加页面内容
 
-## 小统计
-
-
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">嘿！有点意思，这个页面居然被访问了<span id="busuanzi_value_site_pv"></span>次</span>
 
 
 
