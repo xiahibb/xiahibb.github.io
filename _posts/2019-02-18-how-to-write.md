@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 死亡这件事给我们
+title: 如何获得驱动力
 date: 2019-2-18
 categories: blog
 tags: [驱动力,人生]
