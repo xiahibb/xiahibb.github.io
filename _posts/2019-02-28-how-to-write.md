@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何在设计师朋友那获得一个价值1000元的意见
+title: 如何和设计师朋友打交道
 date: 2019-2-28
 categories: blog
 tags: [设计,手艺人]
