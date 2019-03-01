@@ -4,6 +4,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
+                    <span id="busuanzi_container_site_pv" style="font-size: 15px;">访问量<span id="busuanzi_value_site_pv"></span>次</span text-center">
                     <!-- kill the Facebook and Weibo -->
                     <li>
                         <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
@@ -84,7 +85,6 @@
                     {% endif %}
                     -->
                 </ul>
-                <span id="busuanzi_container_site_pv" style="font-size: 15px;">访问量<span id="busuanzi_value_site_pv"></span>次</span>
                 <p class="copyright text-muted">
                 &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} ❖ Powered by Jekyll.
                 </p>
