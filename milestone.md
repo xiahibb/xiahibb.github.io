@@ -44,8 +44,9 @@ header-img: "img/zhihu.jpg"
 
 ## 小统计
 
+
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本页总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+<span id="busuanzi_container_site_pv">嘿！有点意思，这个页面居然被地访问了<span id="busuanzi_value_site_pv"></span>次</span>
 
 
 
