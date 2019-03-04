@@ -144,31 +144,9 @@ jQuery(document).ready(function($) {
 });
 </script>
 
-<footer>
-  <p class="site-info">
+
+<p class="site-info">
     博客已萌萌哒运行<span id="time-to-now"></span><span class="my-face">(●'◡'●)ﾉ♥</span>
-    <br>
-    Theme - <a href="https://github.com/dongyuanxin/theme-bmw">BMW</a> | Made With 💗 | Powered by <a href="https://godbmw.com/">GodBMW</a>
-    <br>
-    <% if(theme.footer.more){ %>
-      <%- theme.footer.more %>
-    <% } %>
-  </p>
-</footer>
-
-<% 
-  let footerStartTimeArr = theme.footer.start.split('-')
-  let footerStartTime = {
-    year: parseInt(footerStartTimeArr[0], 10),
-    month: parseInt(footerStartTimeArr[1], 10),
-    day: parseInt(footerStartTimeArr[2], 10)
-  }
-
-  isNaN(footerStartTime.year) && (footerStartTime.year = 2018)
-  isNaN(footerStartTime.month) && (footerStartTime.month = 2)
-  isNaN(footerStartTime.day) && (footerStartTime.day = 10)
-
-%>
 
 <script>
 const timeToNowDOM = document.querySelector("#time-to-now");
