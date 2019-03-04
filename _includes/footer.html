@@ -88,27 +88,6 @@
                 <span id="busuanzi_container_site_pv" style="font-size: 14px;">已有 <span id="busuanzi_value_site_pv"></span> 人次访问</span>
                 <p class="copyright text-muted">
                     <p class="site-info">
-                    博客已萌萌哒运行<span id="time-to-now"></span><span class="my-face">(●'◡'●)ﾉ♥</span>
-
-                <script>
-                const timeToNowDOM = document.querySelector("#time-to-now");
-                const startTimestamp = new Date(<%- footerStartTime.year %>, <%- footerStartTime.month - 1 %>, <%- footerStartTime.day %>).getTime();
-
-                const updateTimeStr = () => {
-                  let offset = parseInt(
-                      (new Date().getTime() - startTimestamp) / 1000,
-                      10
-                    ),
-                    day = Math.floor(offset / 86400),
-                    hour = Math.floor((offset % 86400) / 3600),
-                    minute = Math.floor(((offset % 86400) % 3600) / 60),
-                    second = Math.floor(((offset % 86400) % 3600) % 60);
-                  timeToNowDOM.innerHTML =
-                    day + "天" + hour + "小时" + minute + "分钟" + second + "秒";
-                  setTimeout(updateTimeStr, 500);
-                }
-
-                setTimeout(updateTimeStr, 500);
                 &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} ❖ Powered by Jekyll.
                 </p>
             </div>
