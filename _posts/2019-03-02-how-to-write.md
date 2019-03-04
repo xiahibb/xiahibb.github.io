@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 逃出肖申克
+title: 逃出肖申克的办法
 date: 2019-3-02
 categories: blog
 tags: [成长,贫穷]
