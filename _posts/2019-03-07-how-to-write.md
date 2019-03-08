@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 掌握五笔只需一万字
-date: 2019-3-02
+date: 2019-3-07
 categories: blog
 tags: [五笔打字,学习新技能]
 description: 每天三句，一天20分钟。一共 16533个便让我学会五笔，我相信你也可以。
