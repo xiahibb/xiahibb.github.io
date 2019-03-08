@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 痛苦思辩
-date: 2019-3-02
+date: 2019-3-08
 categories: blog
 tags: [成长,意识]
 description: 人的一生会经历三次痛苦的思辩，第一次是在二十岁，第二次是在三十岁，第三次会在离开工作岗位后，我想我现在处在了人生的第一次。
