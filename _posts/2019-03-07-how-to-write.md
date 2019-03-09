@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 掌握五笔只需一万字
+title: 快速学会五笔的方法是？
 date: 2019-3-07
 categories: blog
 tags: [五笔打字,学习新技能]
