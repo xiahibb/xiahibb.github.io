@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何和设计师朋友打交道
+title: 为什么我们不聊设计？
 date: 2019-2-28
 categories: blog
 tags: [设计,手艺人]
