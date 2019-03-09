@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 为什么我们不聊设计？
+title: 为什么我们不聊设计
 date: 2019-2-28
 categories: blog
 tags: [设计,手艺人]
