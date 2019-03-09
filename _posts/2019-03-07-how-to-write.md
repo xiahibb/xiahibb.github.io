@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 快速学会五笔的方法是？
+title: 快速学会五笔的方法
 date: 2019-3-07
 categories: blog
 tags: [五笔打字,学习新技能]
