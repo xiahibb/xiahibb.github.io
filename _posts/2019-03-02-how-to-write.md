@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何让心智觉醒
+title: 快点让心智觉醒吧
 date: 2019-3-02
 categories: blog
 tags: [成长,贫穷]
