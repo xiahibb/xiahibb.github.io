@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 逃出肖申克的办法
+title: 让心智觉醒的办法是...
 date: 2019-3-02
 categories: blog
 tags: [成长,贫穷]
