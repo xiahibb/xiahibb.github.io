@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 年轻人如何逆袭...
+title: 年轻人如何才能逆袭
 date: 2019-3-08
 categories: blog
 tags: [成长,意识]
