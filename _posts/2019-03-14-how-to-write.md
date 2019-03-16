@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为什么坏事总发生在你身上
-date: 2019-3-16
+date: 2019-3-14
 categories: blog
 tags: [积极,观念]
 description: 为什么坏的事情总是爱发生在你的身上，这是为什么呢？
