@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为什么我想成为一个工具人
-date: 2019-3-14
+date: 2019-3-13
 categories: blog
 tags: [工具人,成长]
 description: 人的本质是工具，做为一个工具人的自我修养是什么呢？如何才能成为一个工具人呢？
