@@ -45,3 +45,5 @@ description: 我以前用眼睛看事物，可我总是看不清楚，死后我�
 
 ！[](http://livedoor.blogimg.jp/karapaia_zaeega/imgs/b/c/bc379d21.jpg)
 
+<img src="https://www.seekpng.com/png/detail/13-135876_business-people-sitting-png-clipart-library-stock-office.png" alt="Business People Sitting Png Clipart Library Stock - Office People Cut Out@seekpng.com">
+
