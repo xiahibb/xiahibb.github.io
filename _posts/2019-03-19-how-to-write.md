@@ -43,4 +43,5 @@ description: 我以前用眼睛看事物，可我总是看不清楚，死后我�
 
 祝好！我是来自平行宇宙M34-4602151-B的XIAHIBB
 
+！[](http://livedoor.blogimg.jp/karapaia_zaeega/imgs/b/c/bc379d21.jpg)
 
