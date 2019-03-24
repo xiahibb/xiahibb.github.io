@@ -42,8 +42,3 @@ description: 我以前用眼睛看事物，可我总是看不清楚，死后我�
 给你写信真好，给自己加个油，努力努力再努力，学习学习再学习。
 
 祝好！我是来自平行宇宙M34-4602151-B的XIAHIBB
-
-！[](http://livedoor.blogimg.jp/karapaia_zaeega/imgs/b/c/bc379d21.jpg)
-
-<img src="https://www.seekpng.com/png/detail/13-135876_business-people-sitting-png-clipart-library-stock-office.png" alt="Business People Sitting Png Clipart Library Stock - Office People Cut Out@seekpng.com">
-
