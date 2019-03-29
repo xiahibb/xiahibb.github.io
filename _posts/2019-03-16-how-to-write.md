@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 向你推荐一个人生哲学
+title: 享乐乃是至善之事
 date: 2019-3-16
 categories: blog
 tags: [哲学,伊壁鸠鲁学派]
