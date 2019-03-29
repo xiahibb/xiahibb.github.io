@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 为什么我想成为一个工具人
+title: 成为工具人
 date: 2019-3-13
 categories: blog
 tags: [工具人,成长]
