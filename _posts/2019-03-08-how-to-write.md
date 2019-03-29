@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 请问您的路在何方
+title: 我们的前面还有路吗
 date: 2019-3-08
 categories: blog
 tags: [成长,意识]
