@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 景管三年
-date: 2019-4-09
+date: 2019-4-28
 categories: blog
 tags: [回忆,大学]
 description: 我们的三年时光，致景管同学老师。
