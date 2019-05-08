@@ -22,3 +22,6 @@ description: 不是你的，不可得，是你的，决不会少你。
 
 除了影响你的心情，它能给你带来什么呢？你真的就少那500元吗？不是吧。
 
+<span id="busuanzi_container_page_pv">
+  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
