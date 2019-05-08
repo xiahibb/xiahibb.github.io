@@ -21,3 +21,8 @@ description: 你以为你是在2019年，说不定现在是2999年。
 
 - 自由意志（英语：Free will）是能在各种可能的方案中进行选择和决定行动的能力。--维基百科
 - 为了更好的理解你可以去看一个互动式电影《黑镜：潘达斯奈基》。
+
+<span id="busuanzi_container_page_pv">
+  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
+
