@@ -30,3 +30,8 @@ description: 我为什么会写这个博客，在这个博客产生的过程中�
 - 2019.3.09 增加广告语
 
 **2019.2.16.22.00**
+
+<span id="busuanzi_container_page_pv">
+  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
+
