@@ -50,8 +50,10 @@ description: 记录生活
 
 昨天网络世界的朋友对我也进行了一次难忘“精准打击”，这位朋友给我发了一封邮件，内容为“我来过”，短短的三个字，说出了一种淡淡地我来了，轻轻地我走了。如隔岸的歌声，近处的萤火虫，在漆黑的夜晚中给行路人指出了方向。谢谢你的善意，陌生的朋友。
 
+注:一切皆是忘想，一切皆是虚无
+
 <span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
 
 
