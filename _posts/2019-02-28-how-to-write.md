@@ -24,6 +24,6 @@ description: 朋友，我们可以聊生活聊电影聊小说，但是如果你�
 - 2019-2-28
 
 <span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
 
