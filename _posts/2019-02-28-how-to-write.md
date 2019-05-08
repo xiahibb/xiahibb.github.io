@@ -22,3 +22,8 @@ description: 朋友，我们可以聊生活聊电影聊小说，但是如果你�
 以上，如那天你的设计师朋友免费回答了你问题，请珍惜。
 
 - 2019-2-28
+
+<span id="busuanzi_container_page_pv">
+  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
+
