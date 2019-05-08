@@ -36,3 +36,8 @@ description: 这是来自己我在毕业设计思考过程，针对乡村旅游�
 - 2019.2.19 开题;
 - 2019.2.20 提出第一步的思路;
 
+<span id="busuanzi_container_page_pv">
+  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
+
+
