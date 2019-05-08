@@ -30,5 +30,5 @@ description: 人的本质是工具，做为一个工具人的自我修养是什�
 - 2019-3-14 0:19
 
 <span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
