@@ -105,3 +105,8 @@ description: 好的东西原来是这样的 当时看不懂 过后回味无穷�
 原来刘老师的**规划是脚丈量出来的**来源于乡土中国费孝通先生
 
 好的东西原来是这样的 当时看不懂 过后回味无穷啊
+
+<span id="busuanzi_container_page_pv">
+  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
+
