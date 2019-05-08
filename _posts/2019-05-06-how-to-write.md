@@ -24,3 +24,6 @@ description: 记录生活
 
 不想叫他菜头叔，可心里面叫他菜头叔，这绝不是因为我的辩子长在了心里面，是因为我做这些事就是被他给带上路的。2017年看他写的公众号，到现在回来看他写的博客，自己从中受益也开始写博客。这难道不是新树又发芽吗？
 
+<span id="busuanzi_container_page_pv">
+  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
