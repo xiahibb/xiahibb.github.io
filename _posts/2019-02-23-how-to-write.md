@@ -39,6 +39,6 @@ description: 旅游不仅仅是我们所说的诗和远方，乡村旅游也有�
 - 2019-2-24修改文字
 
 <span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
 
