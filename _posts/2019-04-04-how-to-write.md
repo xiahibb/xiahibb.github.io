@@ -33,3 +33,7 @@ description: 穷人没有选择，能做的不过是做自己不想做的，用�
 最后我认为穷人是没有选择的，要想成长我们要做的不过就是和曾国藩所言的一样**做自己不想做的事，用笨方法和事物死磕！**
 
 如，不想早起，就试着早起，不想阅读，就马上去阅读。
+
+<span id="busuanzi_container_page_pv">
+  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
