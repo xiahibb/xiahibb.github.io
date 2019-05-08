@@ -44,6 +44,6 @@ description: 我以前用眼睛看事物，可我总是看不清楚，死后我�
 祝好！我是来自平行宇宙M34-4602151-B的XIAHIBB
 
 <span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
 
