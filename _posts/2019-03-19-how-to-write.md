@@ -42,3 +42,8 @@ description: 我以前用眼睛看事物，可我总是看不清楚，死后我�
 给你写信真好，给自己加个油，努力努力再努力，学习学习再学习。
 
 祝好！我是来自平行宇宙M34-4602151-B的XIAHIBB
+
+<span id="busuanzi_container_page_pv">
+  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
+
