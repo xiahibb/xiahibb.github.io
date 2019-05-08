@@ -60,7 +60,7 @@ Barney. Let us hope one of her parents was not.
 正因为我什么都不知道，可我想知道。所以我不得不记录下来，帮助我知道。这便是我成长的第一步。
 
 <span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
 
 
