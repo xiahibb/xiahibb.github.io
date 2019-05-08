@@ -34,5 +34,5 @@ description: 陌生人，你将在此地过着舒适的生活。在这里享乐�
 2019-3-17读《苏菲的世界》关于伊壁鸠鲁学派有感。
 
 <span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
