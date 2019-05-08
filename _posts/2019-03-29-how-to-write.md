@@ -23,6 +23,6 @@ description: 你以为你是在2019年，说不定现在是2999年。
 - 为了更好的理解你可以去看一个互动式电影《黑镜：潘达斯奈基》。
 
 <span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
 
