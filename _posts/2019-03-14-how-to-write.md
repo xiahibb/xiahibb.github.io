@@ -31,5 +31,5 @@ description: 为什么坏的事情总是爱发生在你的身上，这是为什�
 - 2019-3-16读冯大辉的《是不是整个世界都对你不好》有感而发
 
 <span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
