@@ -33,4 +33,9 @@ description: 人的一生会经历三次痛苦的思辩，第一次是在二十�
 
 2019-3-08-23:14读冯大辉的《普通人如何逆袭》有感
 
+<span id="busuanzi_container_page_pv">
+  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
+
+
 
