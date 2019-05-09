@@ -3,7 +3,7 @@ layout: post
 title: 我心飞翔
 date: 2019-5-09
 categories: blog
-tags: [随笔,生活]
+tags: [动漫,生活]
 description: 记录生活
 ---
 
