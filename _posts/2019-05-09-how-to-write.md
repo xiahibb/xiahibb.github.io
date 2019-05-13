@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我心飞翔
+title: 推荐动漫/记录的地平线
 date: 2019-5-09
 categories: blog
 tags: [动漫,生活]
