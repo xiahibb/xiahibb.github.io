@@ -32,4 +32,4 @@ description: 学习就是在有生之年找到属于你自己的快乐。而质�
 
 所以要惩罚我到啥时候啊？
 
-
+<script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
