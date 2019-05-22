@@ -32,6 +32,7 @@ description: 学习就是在有生之年找到属于你自己的快乐。而质�
 
 所以要惩罚我到啥时候啊？
 
+
 <script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
 
 <div id="disqus_thread"></div>
@@ -55,7 +56,4 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
 
