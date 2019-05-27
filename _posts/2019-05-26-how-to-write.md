@@ -26,6 +26,7 @@ description: 学习就是在有生之年找到属于你自己的快乐。而质�
 
 >Conquer yourself, and you will conquer any obstacle.
 
+>征服自己，你将克服任何障碍。
 
 <span id="busuanzi_container_page_pv">
   注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
