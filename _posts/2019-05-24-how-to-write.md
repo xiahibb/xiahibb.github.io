@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我买不起苹果XS
-date: 2019-5-21
+date: 2019-5-24
 categories: blog
 tags: [苹果,消费]
 description: 学习就是在有生之年找到属于你自己的快乐。而质朴的人们假如能把自己理解不了的事情看作是与己无关的事，那就好了。
