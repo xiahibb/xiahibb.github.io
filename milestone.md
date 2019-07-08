@@ -5,7 +5,7 @@ description: "关于设计"
 header-img: "img/zhihu.jpg"
 ---
 
-##我是XIAHIBB，平面设计师。
+## 我是XIAHIBB，平面设计师。
 
 **2016**年由世界著名设计学院，德国[包豪斯](https://dwz.cn/AXyo8pVi)学院，景观园林硕士研究生王瑞珏老师启蒙，从此走上设计之路。
 
