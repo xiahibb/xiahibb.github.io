@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 无知便是原罪
+title: 理瑭让我心神入画
 date: 2019-7-24
 categories: blog
 tags: [学习,藏文化]
