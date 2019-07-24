@@ -3,7 +3,7 @@ layout: post
 title: 理瑭让我心神入画
 date: 2019-7-24
 categories: blog
-tags: [学习,藏文化]
+tags: [唐卡,藏文化]
 description: 藏文化如一颗夜空中最亮的星，照亮我前进的道路。
 ---
 
