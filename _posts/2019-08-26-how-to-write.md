@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 写给一个女孩的心里话
-date: 2019-8-21
+date: 2019-8-26
 categories: blog
 tags: [感情,生活]
 description: 爱的深，哭了很久。
@@ -44,7 +44,7 @@ description: 爱的深，哭了很久。
 
 爱你的夏
 
-写于2019年8月27日，写得很难，也不知自己在说些什么，祝好。
+写于2019年8月26日，写得很难，也不知自己在说些什么，祝好。
 
 
 <span id="busuanzi_container_page_pv">
