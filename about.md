@@ -38,7 +38,7 @@ header-img: "img/green.jpg"
 
 带着做品牌的要求去做设计，而不仅仅是做一名图形设计师。
 
-## 图形作品
+## 我的作品
 
 **[点我](https://huiweishijie.com/milestone/)**
 我的作品和我正在做的工作
