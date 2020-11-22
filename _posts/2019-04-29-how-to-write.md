@@ -91,6 +91,3 @@ description: 景管三年我们的回忆
 
 前方高能，我们虽不能一起携手闯过，但铭记，岁月里你、我、他（她）都是独自奋斗着，但当需要我们的时候，我们还是2019届景区开发管理二班，请铭记，我们共同渡过的三年。
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
