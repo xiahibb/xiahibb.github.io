@@ -36,9 +36,6 @@ description: 这种感觉简直太爽了。没工作也有钱可赚。虽说是�
 
 2019、07、08更新：要了一个月了，这小子还有 500 一直不给，微信也不回，哎！
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
 
 
 <script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
