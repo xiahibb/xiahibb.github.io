@@ -45,6 +45,3 @@ description: 学习就是在有生之年找到属于你自己的快乐。而质�
 
 这样说来那万事万物都有他的乐趣所有，道教的一生二，二生三，三生万物也就成立。学英语肯定也有它的乐趣所在，可能只是我还没有发现吧！ 
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
