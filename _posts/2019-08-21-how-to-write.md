@@ -28,9 +28,6 @@ description: 对于学习我总是很支持的，专注科学，提升自我。
 **有乐常知足，平静如狗流。**
 
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
 
 
 <script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
