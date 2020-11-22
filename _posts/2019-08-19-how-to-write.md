@@ -19,10 +19,6 @@ description: 好的电影就是这样总是让人难以忘怀。
 
 但真实的情况不是这样的，哈哈哈，做设计的也好，玩艺术的也好，大家都好独特，谁没事想和你谈论这些哟！想得大多是，"为什么不这样做","你这个做得好土"，"我这个意思你没明白"。这才是真实的生活。
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
-
 
 <script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
 
