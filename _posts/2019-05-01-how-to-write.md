@@ -30,6 +30,3 @@ description: 记录生活
 
 今天收到杨妈妈（高中班主任）的祝福“成长的路上充满了泥泞，但总有那么一束光照耀着你前行”
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
