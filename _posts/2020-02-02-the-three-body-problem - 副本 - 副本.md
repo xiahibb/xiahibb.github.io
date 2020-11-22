@@ -51,9 +51,6 @@ description: 科幻年读科幻小说很是应境。
 在平面和当下空间上改造空间。为此我将要做的是，了解更多相关的手法，近而模仿手法，表达自己的思想。
 
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是妄想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
 
 
 <script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
