@@ -25,10 +25,6 @@ description: 工作常有变，但技能可以旁你一生。
 
 我相信这些精神上的影响会让我走得更远。这次的实习也让我明白了一个道理，工作常有变，但技能可以旁你一生。
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
-
 
 <script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
 
