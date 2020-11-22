@@ -31,7 +31,4 @@ description: 我为什么会写这个博客，在这个博客产生的过程中�
 
 **2019.2.16.22.00**
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
 
