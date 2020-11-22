@@ -56,9 +56,6 @@ description: 学习就是在有生之年找到属于你自己的快乐。而质�
 
 **结尾不想升华，我就是买不起苹果XS。所以，散场吧，没热闹可看了！**
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
 
 
 <script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
