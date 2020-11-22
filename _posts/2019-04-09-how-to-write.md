@@ -21,7 +21,3 @@ description: 不是你的，不可得，是你的，决不会少你。
 参加这样的活动本身就是在浪费你的时间，它标准模糊，这样的活动就不值得你去投入心情。
 
 除了影响你的心情，它能给你带来什么呢？你真的就少那500元吗？不是吧。
-
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
