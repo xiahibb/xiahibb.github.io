@@ -1,0 +1,70 @@
+---
+layout: post
+title: 逐渐枯萎又逐渐成长
+date: 2020-11-22
+categories: blog
+tags: [生活,家庭]
+description: 逐渐枯萎又逐渐成长。
+---
+
+
+有些东西总是在你不注意的期间，就静静的死去。日子有时很长，长到当你发现时，已回不到从前。
+
+去过的一年我很少更新这个博客，因为也没想好要更新点什么东西。但现在实实在在是进入视频时代了，没法静下心来写博客了。这个也可以从我 Reeder 定阅的其他人的更新里看出来。更新的人越来越少，有意思的博客也早已停更。
+
+今年“难过”这俩个字出现的频率比往年要高出很多。也很难在博客写出那种给自己鼓励，让自己前进的文字出来。
+
+心里总是很难过，很难过。
+
+但今天有件事，温暖到了我，让我觉得生活还是很有意思的。
+
+事情的起因是这样的，我父亲的生日是今天，亲戚们都在微信“皇亲国戚“里祝他生日快乐。
+
+面对着群里面发的祝福红包，我竟然不敢点开，根本原因是心态的问题。我一向是个爱东想西想的人，大脑总是爱疯狂的运转。
+
+我在想如果的点开了那个红包，就得再发个大红包去群里面，我不想。不想发，也不想被莫须有的东西绑架。
+
+但我还是想祝父亲生日快乐，所以给他私下发了个小红包200大洋。发给他，他居然还不要。还回消息说，我知道最近你自己手头也紧，你的心意我收到了。
+
+看到这个消息心里气又感动，气得是 mmp 辣鸡公司几个月不发工资了，不发就算了，还一点好听的话都不说，感动的是在这个世界上父母永远是你在外闯荡江湖永远的避风港。
+
+他们对你没有任何功利心，也不会要你做什么回报。
+
+他们只是希望你好好活着，好好工作就对了。
+
+所以我想，还是得打起精神来，好好面对这虚无的生活。
+
+
+<span id="busuanzi_container_page_pv">
+  注:一切皆是妄想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
+
+
+<script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://huiweishijie.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
+
+
+
