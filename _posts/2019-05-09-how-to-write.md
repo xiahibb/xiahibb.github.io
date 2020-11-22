@@ -24,10 +24,6 @@ description: 记录生活
 
 到后期的看点就是这次的危机如何解决呢。会问自己，也会问城惠。
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
-
 
 
 
