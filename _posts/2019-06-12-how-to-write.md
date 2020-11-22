@@ -34,9 +34,6 @@ description: 来吧！我最不怕的就是失败，我最不缺的就是勇气�
 
 来吧！我最不怕的就是失败，我最不缺的就是勇气。
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
 
 
 <script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
