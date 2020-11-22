@@ -22,7 +22,3 @@ description: 学习就是在有生之年找到属于你自己的快乐。而质�
 
 幸好是没去跟上，跑回家我上个楼梯都要吐想吐的，开门，沙发，白开水，5分钟后，我胡汉三又回来了。
 
-
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
