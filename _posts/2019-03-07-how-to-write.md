@@ -39,9 +39,6 @@ description: 每天三句，一天20分钟。一共 16533个便让我学会五�
 
 接下来你只需要通过每天的刻意练习五笔打字，便可成功学会。我练习的是《飞鸟集》中英文，每天三句，一天20分钟。一共 16533个便让我学会五笔，我相信你也可以。
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
 
 
 
