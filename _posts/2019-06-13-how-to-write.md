@@ -28,9 +28,7 @@ description: 毕业是意味着自己站在之前自己努力后的平台上，�
 
 所以这几人未来会怎样呢？
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
+
 
 
 <script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
