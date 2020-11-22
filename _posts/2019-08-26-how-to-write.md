@@ -47,9 +47,6 @@ description: 爱的深，哭了很久。
 写于2019年8月26日，写得很难，也不知自己在说些什么，祝好。
 
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
 
 
 <script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
