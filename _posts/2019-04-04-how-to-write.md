@@ -34,6 +34,3 @@ description: 穷人没有选择，能做的不过是做自己不想做的，用�
 
 如，不想早起，就试着早起，不想阅读，就马上去阅读。
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
