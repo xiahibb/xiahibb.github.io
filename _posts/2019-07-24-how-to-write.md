@@ -18,9 +18,6 @@ description: 藏文化如一颗夜空中最亮的星，照亮我前进的道路�
 
 现实总是痛苦的，看完画我脑子里会有很多的灵感交迸发出来，他们就像一群小精灵，在我的脑子活蹦乱跳的，但我却抓不住他们，但和这些灵感小精灵玩耍的过程却让我无比的有成就感，也许这就是理瑭给我的快乐吧。
 
-<span id="busuanzi_container_page_pv">
-  注:一切皆是忘想，一切皆是虚无,本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
 
 
 <script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
