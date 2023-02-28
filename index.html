@@ -1,55 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: page
+description: "XIAHIBB"
+---
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <style>
-        /* Add styles for back-to-top button */
-        #back-to-top {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            font-size: 16px;
-            color: white;
-            background-color: black;
-            padding: 10px;
-            border-radius: 50%;
-            cursor: pointer;
-            display: none;
-            z-index: 999;
-        }
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            
+            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+        <div class="post-content-preview">
+            {{ post.content | strip_html | truncate:150 }}
+        </div>
+    </a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
 
-        #back-to-top i {
-            margin-top: 2px;
-        }
+<hr>
+{% endfor %}
 
-        #back-to-top:hover {
-            background-color: gray;
-        }
-    </style>
-</head>
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
 
-<body>
-    <h1>Welcome to My Website</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis euismod, purus in vehicula malesuada, justo
-        enim luctus neque, eget pulvinar purus urna eget arcu. Curabitur venenatis euismod augue, at faucibus velit
-        auctor vitae. Fusce posuere aliquet bibendum. Aenean commodo, justo quis hendrerit ultrices, sem augue
-        aliquam risus, nec finibus nulla tellus vel tortor. Nullam tincidunt ex non lacus tempor, vel venenatis
-        enim ultrices. Donec vel tempor nibh. Nulla rutrum, elit ut tristique dictum, sapien elit tempus felis,
-        vel interdum velit tortor eu eros. Maecenas in lacus nec dolor ultricies dictum a a eros. Praesent ut
-        mauris eget sem venenatis congue vel eu eros. Fusce viverra felis at neque auctor, a iaculis lectus
-        eleifend. Nulla facilisi. Suspendisse potenti. Ut eget nulla vel enim pellentesque vehicula sit amet a
-        orci. </p>
 
-    <p>Morbi pulvinar lectus sed est dignissim, vitae bibendum metus viverra. Nam maximus metus nec massa
-        hendrerit, in ullamcorper libero dictum. Sed congue, nulla vel sodales euismod, mi eros dapibus turpis,
-        vel efficitur nibh nibh at lacus. Praesent ac metus fermentum, aliquet nunc eu, dictum magna. Praesent
-        ultricies ante quis erat hendrerit, id pellentesque augue pulvinar. Nullam dictum gravida odio, in
-        ullamcorper lectus. </p>
-
-    <p>Integer sagittis, enim vel interdum dictum, ex magna convallis ante, eu ultricies orci ex vel dui. In hac
-        habitasse platea dictumst. Praesent vel elit vel nisl rutrum pulvinar a ac purus. Praesent vestibulum
-        elit eu elit tincidunt vehicula. Donec condimentum tellus nec ante lobortis
