@@ -1,37 +1,30 @@
-/* Back Top Button */
-#back-top {
+#back-to-top {
   position: fixed;
-  bottom: 2rem;
-  right: 2rem;
-  animation: backTop 1s ease-in-out infinite;
-}
-
-#back-top a {
-  width: 40px;
-  height: 40px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: rgba(0, 0, 0, 0.45);
-  color: #fff;
-  font-size: 24px;
+  bottom: 20px;
+  right: 20px;
+  font-size: 28px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
   border-radius: 50%;
-  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s ease;
+  z-index: 9999;
 }
 
-#back-top a:hover {
-  background-color: #3c5494;
+#back-to-top:hover {
+  background-color: #3C5494;
 }
 
-@keyframes backTop {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-10px);
-  }
-  100% {
-    transform: translateY(0);
-  }
+#back-to-top i {
+  vertical-align: middle;
 }
-/* Back Top Button End */
+
+#back-to-top.show {
+  opacity: 1;
+  visibility: visible;
+}
