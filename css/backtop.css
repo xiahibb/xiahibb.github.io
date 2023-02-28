@@ -1,37 +1,26 @@
-/*  Back Top Button  */
-#back-top {
+#back-to-top {
   position: fixed;
-  bottom: 2rem;
-  right: 2rem;
-}
-#back-top a {
-  background: rgba(0, 0, 0, 0.45);
-  -webkit-border-radius: 7px;
-  -moz-border-radius: 7px;
-  -webkit-transition: 1s;
-  -moz-transition: 1s;
-  transition: 1s;
-  width: 40px;
-  height: 40px;
-  display: block;
-  font-size: 36px;
-  color: #fff;
+  right: 20px;
+  bottom: 20px;
+  display: none;
+  font-size: 30px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
   text-align: center;
-  border-radius: 3px 3px;
-  text-decoration: none;
-}
-#back-top a:hover {
-  background-color: #3C5494;
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  background-color: #fff;
+  color: #333;
+  z-index: 9999;
 }
 
-#back-top i {
-    font-size: 24px;
-    line-height: 40px;
-    vertical-align: top;
+#back-to-top:hover {
+  color: #fff;
+  background-color: #333;
+  border-color: #333;
 }
-/* 向上图标透明白色 */
-.fa-chevron-up:before {
-    color: rgba(252,252,252,0.81);
-}
-/*  Back Top Button  End */
 
+#back-to-top i {
+  vertical-align: middle;
+}
