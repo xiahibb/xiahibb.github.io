@@ -1,30 +1,39 @@
-#back-to-top {
+<style>
+/* Back to Top Button */
+#back-top {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
-  font-size: 28px;
-  width: 50px;
-  height: 50px;
-  line-height: 50px;
-  text-align: center;
-  border-radius: 50%;
-  background-color: rgba(0, 0, 0, 0.6);
-  color: #fff;
-  opacity: 0;
-  visibility: hidden;
-  transition: opacity 0.2s ease, visibility 0.2s ease;
-  z-index: 9999;
+  bottom: 2rem;
+  right: 2rem;
 }
 
-#back-to-top:hover {
-  background-color: #3C5494;
+#back-top a {
+  background: url(https://github.com/xiahibb/xiahibb.github.io/blob/master/img/Back-Top_Arrow.png) no-repeat center center;
+  width: 40px;
+  height: 40px;
+  display: block;
+  text-decoration: none;
 }
 
-#back-to-top i {
-  vertical-align: middle;
+#back-top a:hover {
+  background: url(https://github.com/xiahibb/xiahibb.github.io/blob/master/img/Back-Top_Arrow.png) no-repeat center center #3C5494;
 }
 
-#back-to-top.show {
+#back-top i {
+  display: none;
+}
+
+/* Optional: adjust the opacity of the arrow image */
+#back-top a {
+  opacity: 0.8;
+}
+
+#back-top a:hover {
   opacity: 1;
-  visibility: visible;
 }
+
+</style>
+
+<!-- Back to Top Button HTML -->
+<div id="back-top">
+  <a href="#top"></a>
+</div>
