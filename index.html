@@ -1,48 +1,43 @@
 ---
-layout: page  // 布局类型，指定为 "page"，表示这是一个页面
-description: "XIAHIBB"  // 页面的描述
+layout: page
+description: "XIAHIBB"
 ---
 
-{% for post in paginator.posts %}  // 循环遍历博客文章列表
-<div class="post-preview">  // 博客文章的预览框
-    <a href="{{ post.url | prepend: site.baseurl }}">  // 链接到博客文章的 URL
-        <h2 class="post-title">  // 博客文章的标题
-            {{ post.title }}  // 博客文章的标题内容
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            
+            {{ post.title }}
         </h2>
-        {% if post.subtitle %}  // 如果博客文章存在副标题，则执行下列代码
-        <h3 class="post-subtitle">  // 博客文章的副标题
-            {{ post.subtitle }}  // 博客文章的副标题内容
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
         </h3>
         {% endif %}
-        <div class="post-content-preview">  // 博客文章的内容预览
-            {{ post.content | strip_html | truncate:150 }}  // 博客文章的内容，去除 HTML 标签并截断为 150 个字符
+        <div class="post-content-preview">
+            {{ post.content | strip_html | truncate:150 }}
         </div>
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>  // 博客文章的作者和发布日期
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 
-<hr>  // 分隔线
+<hr>
 {% endfor %}
 
 <!-- Pager -->
-{% if paginator.total_pages > 1 %}  // 如果博客文章列表存在多页，则执行下列代码
-<ul class="pager">  // 博客文章列表的翻页控件
-    {% if paginator.previous_page %}  // 如果存在上一页，则执行下列代码
-    <li class="previous">  // 上一页按钮
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>  // 链接到上一页的 URL
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
     </li>
     {% endif %}
-    {% if paginator.next_page %}  // 如果存在下一页，则执行下列代码
-    <li class="next">  // 下一页按钮
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>  // 链接到下一页的 URL
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
     </li>
     {% endif %}
 </ul>
 {% endif %}
 
-<header class="masthead" style="background-image: url('/assets/img/green.jpg')">  // 首页的头部，指定背景图片为 "/assets/img/green.jpg"
-    <div class="overlay"></div>  // 透明遮罩层
-    <div class="container">  // 页面主体内容的容器
-        <div class="row">  // 页面主体内容的行
-            <div class="col-lg-8 col-md-10 mx-auto">  // 页面主体内容的列
-                <div class="site-heading">  // 网站的
+
