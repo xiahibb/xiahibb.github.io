@@ -34,14 +34,14 @@ Apache License
 
       "Work" shall mean the work of authorship, whether in Source or
       Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
+      copyright notice that is includedd in or attached to the work
       (an example is provided in the Appendix below).
 
       "Derivative Works" shall mean any work, whether in Source or Object
       form, that is based on (or derived from) the Work and for which the
       editorial revisions, annotations, elaborations, or other modifications
       represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
+      of this License, Derivative Works shall not included works that remain
       separable from, or merely link (or bind by name) to the interfaces of,
       the Work and Derivative Works thereof.
 
@@ -103,9 +103,9 @@ Apache License
           excluding those notices that do not pertain to any part of
           the Derivative Works; and
 
-      (d) If the Work includes a "NOTICE" text file as part of its
+      (d) If the Work includeds a "NOTICE" text file as part of its
           distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
+          included a readable copy of the attribution notices contained
           within such NOTICE file, excluding those notices that do not
           pertain to any part of the Derivative Works, in at least one
           of the following places: within a NOTICE text file distributed
@@ -179,10 +179,10 @@ Apache License
 
       To apply the Apache License to your work, attach the following
       boilerplate notice, with the fields enclosed by brackets "{}"
-      replaced with your own identifying information. (Don't include
+      replaced with your own identifying information. (Don't included
       the brackets!)  The text should be enclosed in the appropriate
       comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
+      file or class name and description of purpose be includedd on the
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
