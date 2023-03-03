@@ -476,7 +476,7 @@ $('#name').focus(function() {
                             var errorsFound = [];
 
                             $.each(validators, function(validatorType, validatorTypeArray) {
-                                if (value || value.length || (params && params.includeEmpty) || (!!settings.validatorTypes[validatorType].blockSubmit && params && !!params.submitting)) {
+                                if (value || value.length || (params && params.includedEmpty) || (!!settings.validatorTypes[validatorType].blockSubmit && params && !!params.submitting)) {
                                     $.each(validatorTypeArray, function(i, validator) {
                                         if (settings.validatorTypes[validatorType].validate($this, value, validator)) {
                                             errorsFound.push(validator.message);
@@ -602,14 +602,14 @@ $('#name').focus(function() {
                 );
 
             },
-            collectErrors: function(includeEmpty) {
+            collectErrors: function(includedEmpty) {
 
                 var errorMessages = {};
                 this.each(function(i, el) {
                     var $el = $(el);
                     var name = $el.attr("name");
                     var errors = $el.triggerHandler("validation.validation", {
-                        includeEmpty: true
+                        includedEmpty: true
                     });
                     errorMessages[name] = $.extend(true, errors, errorMessages[name]);
                 });
@@ -835,7 +835,7 @@ $('#name').focus(function() {
                     var elements = $this.parents("form").first().find("[name=\"" + $this.attr("name") + "\"]");
                     elements.bind("click.validation", function() {
                         $this.trigger("change.validation", {
-                            includeEmpty: true
+                            includedEmpty: true
                         });
                     });
                     return {
@@ -854,7 +854,7 @@ $('#name').focus(function() {
                     var elements = $this.parents("form").first().find("[name=\"" + $this.attr("name") + "\"]");
                     elements.bind("click.validation", function() {
                         $this.trigger("change.validation", {
-                            includeEmpty: true
+                            includedEmpty: true
                         });
                     });
                     return {
