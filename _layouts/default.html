@@ -17,7 +17,7 @@
   </header>
 
   <main>
-
+    {{ content }}
   </main>
 
   <footer>
@@ -32,3 +32,40 @@
   <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 </body>
 </html>
+
+
+<head>
+  {% include head.html %}
+  <link rel="stylesheet" href="/assets/css/custom.css">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about.html">About</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}
+      <h2>{{ page.subtitle }}</h2>
+    {% endif %}
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <!-- Add back to top button -->
+    <a href="#" id="back-to-top" title="回到顶部"><i class="fa fa-angle-up"></i></a>
+    <p>
+      &copy; {{ site.time | date: "%Y" }}
+      <a href="{{ site.author.url }}">{{ site.author.name }}</a>
+    </p>
+  </footer>
+
+  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
+  <script src="/assets/js/custom.js"></script>
+</body>
