@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "About"
+layout: default
+title: About
 description: "关于生活 " 
 header-img: "img/green.jpg"
 ---
