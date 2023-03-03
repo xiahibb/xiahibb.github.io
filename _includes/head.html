@@ -17,14 +17,19 @@
   </header>
 
   <main>
-    {{ content }}
+    {% block content %}
+      <!-- Default content -->
+    {% endblock %}
   </main>
 
   <footer>
     <!-- Add back to top button -->
     <a href="#" id="back-to-top" title="回到顶部"><i class="fa fa-angle-up"></i></a>
-    <p>Copyright &copy; {{ site.time | date: "%Y" }}
-      <a href="{{ site.author.url }}">{{ site.author.name }}</a>
+    <p>
+      {% block footer %}
+        &copy; {{ site.time | date: "%Y" }}
+        <a href="{{ site.author.url }}">{{ site.author.name }}</a>
+      {% endblock %}
     </p>
   </footer>
 
