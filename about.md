@@ -1,12 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "关于一切" 
 header-img: "img/green.jpg"
 ---
 
 
-## 我是XIAHIBB，平面设计师。
 ## I AM XIAHIBB, GRAPHIC DESIGNER.
 
 Hi. 我是 xiahibb 这里是我的博客介绍，如果一定要给自己圈定一个职业的话，那我是平面设计师，但也许人不应该用职业来定义自己的人生，做一下标签化的人实在是为难自己。因此，我认为自己是一个追求美好生活的人，喜欢旅行、摄影、阅读和写作。我将我的博客视为一个记录生活、分享经验和思考的平台，希望能够与更多的人交流、互动和成长。
