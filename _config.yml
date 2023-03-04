@@ -13,8 +13,8 @@ owner:
   bio: "XIAHIBB在黑暗的设计中探索自己的未来，目前从事的是品牌LOGO的设计。" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/green.jpg # 浏览器地址栏小图标，可自定义更改
-favicon: img/green.jpg # 浏览器地址栏小图标，可自定义更改
+gavatar: img/favicon.ico # 浏览器地址栏小图标，可自定义更改
+favicon: img/favicon.ioc # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username:   
