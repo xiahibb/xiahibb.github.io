@@ -1,0 +1,26 @@
+---
+layout: post
+title: 在深圳工作的日子
+date: 2023-02-27
+categories: blog
+tags: [深圳,工作]
+description: 记录在深圳工作的日子
+---
+
+大海上有两种人，一种是船长一种是想要成为船长的船长，在这里的每一天我几乎都能看到海。这是我来深圳第八个月了，时间这玩意，真是有意思，它会随着年龄的增长而加速。
+
+距离上一次写日记已经不知道过了多久了，我也不想去计算其中的时间，如果有空的话，这个博客也应该来去去尘尘了。
+
+
+
+
+<script>
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://huiweishijie.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
