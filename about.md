@@ -1,67 +1,50 @@
 ---
-layout: page
-title: "About"
+layout: default
+title: About
 description: "关于生活 " 
 header-img: "img/green.jpg"
 ---
 
 
 ## 我是XIAHIBB，平面设计师。
+## I AM XIAHIBB, GRAPHIC DESIGNER.
 
-**2016**年由世界著名设计学院，德国[包豪斯](https://dwz.cn/AXyo8pVi)学院，景观园林硕士研究生王瑞珏老师启蒙，从此走上设计之路。
+Hi. 我是 xiahibb 这里是我的博客介绍，如果一定要给自己圈定一个职业的话，那我是平面设计师，但也许人不应该用职业来定义自己的人生，做一下标签化的人实在是为难自己。因此，我认为自己是一个追求美好生活的人，喜欢旅行、摄影、阅读和写作。我将我的博客视为一个记录生活、分享经验和思考的平台，希望能够与更多的人交流、互动和成长。
 
-**2016**年开始跟随老师的脚步进行学习。期间曾作为成都职业技术学院景区开发与管理专业，设计代表团队成员，参加2018全国高校数字艺术大赛，在这场比赛中作品获得空间设计一等奖。同年团队作品《城市道路空间设计》获得德国DLA空间环境入围奖（中国高校唯一获奖团队）。
+在我的博客中，你可以看到我分享的生活日记、设计心得、读书笔记和个人感悟。我会尽力呈现最出一个真实的自己，也希望能够给读者带来一些启发和思考。
 
+如果你喜欢我的博客，欢迎关注并留言交流。如果你有任何建议或想法，也欢迎联系我。谢谢！
+
+📫 xiahibb@gmail.com.
+
+
+## 工作经历：
+
+**[点我](https://huiweishijie.com/milestone/)** 正在更新中...........
+
+
+## 学生时期的经历：
+
+2016年，我在世界著名的设计学院德国包豪斯学院的景观园林硕士研究生王瑞珏老师的启蒙下，开始了我的设计之路。
+在老师的指导下，我开始了学习。期间，我曾作为成都职业技术学院景区开发与管理专业代表团队成员参加了2018全国高校数字艺术大赛，并获得空间设计一等奖。同年，我们团队的作品《城市道路空间设计》还获得了德国DLA空间环境入围奖（中国高校唯一获奖团队）。
+2018年，我进入四川师范大学旅游设计研究规划院刘旺教授的旗下，学习旅游规划一年之久。
+2019年，我的工业洗衣粉包装袋设计获得了国家外观设计专利证书。同年4月，我再次作为成职代表参加四川省高职院校大学生园林景观技能大赛，并获得三等奖。
+2019年7月，在梦想的指引下，我加入雅砻文旅成为平面设计师。
+最后，在2019年9月，我的毕业作品《生长设计》获得第七届全国高校数字艺术设计大赛环境空间设计三等奖。**2016**年由世界著名设计学院，德国[包豪斯](https://dwz.cn/AXyo8pVi)学院，景观园林硕士研究生王瑞珏老师启蒙，从此走上设计之路。
+**216**年开始跟随老师的脚步进行学习。期间曾作为成都职业技术学院景区开发与管理专业，设计代表团队成员，参加2018全国高校数字艺术大赛，在这场比赛中作品获得空间设计一等奖。同年团队作品《城市道路空间设计》获得德国DLA空间环境入围奖（中国高校唯一获奖团队）。
 **2018**年进入四川师范大学旅游设计研究规划院刘旺教授的旗下学习旅游规划一年之久。
-
 **2019**年工业洗衣粉包装袋设计获得国家外观设计专利证书，
-
-**2019**年4月再次做为成职代表参加四川省高职院校大学生园林景观技能大赛并获得三等奖。
-
-**2019**年7月受到梦想的指引加入了雅砻文旅，成为雅砻文旅的平面设计师。
-
+**2019**年4月再次做为成职代表参加四川省高职院校大学生园林景观技能大赛并获得三等。
+**2019**年7月受到梦想的指引加入了雅砻文旅，开始在雅砻文旅做平面设计师。
 **2019**年9月毕业作品《生长设计》获得第七届全国高校数字艺术设计大赛环境空间设计三等奖。
 
-## 回未视戒
+My name is Xiahibb and I am a graphic designer. In 2016, I began my design journey under the guidance of Professor Wang Ruijue, a landscape architecture master at the world-renowned design school, Bauhaus in Germany. With his guidance, I participated in various design competitions and won multiple awards including the first prize in spatial design at the 2018 National College Digital Art Competition and an honorable mention for our team's work "City Road Space Design" at the German DLA Space Environment Awards (the only Chinese team to receive this award).
 
-博客叫回未视戒，回味世界。关于设计，关于生活，关于旅游。
+I continued my education under Professor Liu Wang at Sichuan Normal University's Tourism Design Research and Planning Institute, where I studied tourism planning for a year. In 2019, I received a national appearance design patent certificate for my industrial laundry detergent packaging design and won third prize in the Sichuan Province College Student Landscape Skills Competition.
 
-本人学历尚浅，文章中有不实和不当之处，还请批评斧正。
+In July 2019, following my dreams, I joined Yalongwenlv as a graphic designer. My graduation project "Growth Design" was awarded third prize in environment and spatial design at the Seventh National College Digital Art Design Competition.
 
-## 回未信条
-
-重要的不是结果而是思考和过程。
-
-在开始一件事情前我喜欢充分的沟通，没有沟通何来成长？
-
-## 工作方向
-
-带着做品牌的要求去做设计，而不仅仅是做一名图形设计师。
-
-## 我的作品
-
-**[点我](https://huiweishijie.com/milestone/)**
-我的作品和我正在做的工作
-
-
-## 最近在干嘛？
-
-- 2019-02网站的优化;
-- 2019-02毕业设计的思考;
-- 2019-03增加博客访问量的统计;
-- 2019-05增加 Disqus 评论框架;
-
-
-## 坚信
-
-- *学习的态度：保持好奇心;
-- *做人的原则：己所不欲勿施于人;
-- *设计的风格：适合的才是最好的;
-- *心态平和、不急不躁、身形挺直、自信真诚、与人和善;*
-
-## 联系
-
-邮箱：xiahibb@gmail.com
+I believe that the process is more important than the outcome and always approach my designs from a branding perspective. To see my work and current projects, visit [my website](https://huiweishijie.com/milestone/). You can also reach me via email at xiahibb@gmail.com.
 
 
 ## changelog
@@ -70,10 +53,4 @@ header-img: "img/green.jpg"
 - 2019-2-16基础信息
 - 2019-3-01访客统计
 - 2019-5-22增加留言
-
-
-
-
-
-
-
+- 2023-3-03更新文字
