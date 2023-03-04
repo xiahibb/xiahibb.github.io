@@ -16,3 +16,5 @@ When I first read the quote by Kenya Hara, "Explaining design is also a kind of 
 For me, design is a creative process that involves translating ideas and concepts into tangible forms. This includes designing and developing products or services from initial sketches and models to final versions. Design requires an understanding of knowledge in different fields such as art, technology, marketing, among others while considering user needs and experience. For me, design is a unique perspective and way of thinking that requires constant learning and exploration.
 
 So I have been trying to make good designs which led me to create this blog where I share my design ideas and experiences with more people. I hope to exchange ideas with other designers through this blog, learn from each other, and progress together. I believe that only through continuous learning and experimentation can we produce better design works.
+
+2023年3月4日

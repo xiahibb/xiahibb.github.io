@@ -14,6 +14,12 @@ Hi，我是 xiahibb。虽然我的职业是平面设计师，但我不愿将自�
 
 如果你喜欢我的博客，请关注并留言交流。如果你有任何建议或想法，也欢迎联系我。感谢你的支持！
 
+Hi, I'm xiahibb. Although my profession is a graphic designer, I don't want to limit my life to a certain label. Instead, I consider myself as someone who pursues a beautiful life and loves traveling, photography, reading and writing. My blog is a platform where I record my life, share experiences and thoughts, hoping to communicate, interact and grow with more people.
+
+In my blog, you can see my shared life diary, design experience, book notes and personal insights. I strive to present the most authentic self and hope to bring some inspiration and reflection to readers.
+
+If you like my blog, please follow me and leave a message for communication. If you have any suggestions or ideas, please feel free to contact me. Thank you for your support!
+
 📫 xiahibb@gmail.com.
 
 
@@ -33,15 +39,6 @@ I continued my education under Professor Liu Wang at Sichuan Normal University's
 In July 2019, following my dreams, I joined Yalongwenlv as a graphic designer. My graduation project "Growth Design" was awarded third prize in environment and spatial design at the Seventh National College Digital Art Design Competition.
 
 I believe that the process is more important than the outcome and always approach my designs from a branding perspective. To see my work and current projects, visit [my website](https://huiweishijie.com/milestone/). You can also reach me via email at xiahibb@gmail.com.
-
-
-**changelog**
-
-- 2019-2-17修复DNS
-- 2019-2-16基础信息
-- 2019-3-01访客统计
-- 2019-5-22增加留言
-- 2023-3-03更新文字
 
 
 
