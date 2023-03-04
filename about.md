@@ -1,7 +1,7 @@
 ---
-layout: default
-title: About
-description: "关于生活 " 
+layout: page
+title: "About"
+description: "你的博客描述 " 
 header-img: "img/green.jpg"
 ---
 
