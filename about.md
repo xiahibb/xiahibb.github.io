@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "About"
+layout: default
+title: About
 description: "关于生活 " 
 header-img: "img/green.jpg"
 ---
@@ -53,6 +53,3 @@ I believe that the process is more important than the outcome and always approac
 - 2019-3-01访客统计
 - 2019-5-22增加留言
 - 2023-3-03更新文字
-
-
-
