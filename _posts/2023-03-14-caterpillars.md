@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 毛毛虫世界：读后笔记分享
+title: 探秘毛毛虫世界：蝴蝶记得自己曾经是毛毛虫？
 date: 2023-03-14
 categories: blog
 tags: [昆虫,自然,永生,笔记分享]
