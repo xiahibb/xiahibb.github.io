@@ -18,3 +18,15 @@ For me, design is a creative process that involves translating ideas and concept
 So I have been trying to make good designs which led me to create this blog where I share my design ideas and experiences with more people. I hope to exchange ideas with other designers through this blog, learn from each other, and progress together. I believe that only through continuous learning and experimentation can we produce better design works.
 
 2023年3月4日
+
+<br>
+<br>
+<br>
+
+<p style="text-align: center;">🧠首席友链<br>Chief Link Exchange Partner</p>
+
+<div style="text-align: center;">
+    <a href="http://jacklove.ddns.net:8090/">Jack Yang 前端工程师</a>
+</div>
+
+---
