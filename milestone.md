@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "关于设计"
+description: "里程碑"
 header-img: "img/zhihu.jpg"
 ---
 
