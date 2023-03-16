@@ -12,3 +12,14 @@ header-img: "img/zhihu.jpg"
 I am a graphic designer, Rick, currently working in a brand marketing company in Shenzhen. I am primarily interested in layout, typography design, and brand marketing. Although I do not understand code, I fully endorse the open-source spirit, which is why this blog is entirely open-source. The content of my blog mainly reflects my experiences and thoughts through the ups and downs of life. 
 
 As a blogger, I don't expect to produce any significant output or receive negative comments. Therefore, if you must leave me a message, please be kind with your words. If my content offends you, it's best to exit quietly. This blog was established on February 16th, 2019 and has received a lot of encouragement and support from good friends during the process. One person who has been most helpful in keeping this site up and running is Jack Yang, a front-end engineer. Whenever I have trouble with the site's functionality, he always comes through to help me out. He is essential to this site and serves as its chief friend-link exchange partner. [Jack Yang](http://jacklove.ddns.net:8090) also has his own blog that you might be interested in checking out.
+
+---
+
+**我的朋友**
+<br>
+
+<div style="text-align: center; border: 1px solid #fafafa; padding: 10px; background-color: #f7f7f8; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <p><strong>🧠首席友链<br>Chief Link Exchange Partner</strong></p>
+    <a href="http://jacklove.ddns.net:8090/">Jack Yang 前端工程师</a>
+</div>
+
