@@ -20,13 +20,8 @@ So I have been trying to make good designs which led me to create this blog wher
 2023年3月4日
 
 <br>
-<br>
-<br>
 
-<p style="text-align: center;">🧠首席友链<br>Chief Link Exchange Partner</p>
-
-<div style="text-align: center;">
+<div style="text-align: center; border: 1px solid #fafafa; padding: 10px;">
+    <p>🧠首席友链<br>Chief Link Exchange Partner</p>
     <a href="http://jacklove.ddns.net:8090/">Jack Yang 前端工程师</a>
 </div>
-
----
