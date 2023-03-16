@@ -5,16 +5,10 @@ description: "关于设计"
 header-img: "img/zhihu.jpg"
 ---
 
-最早的时候读到原研哉的这名话“阐述设计本身也是一种设计”设计不仅仅是创建具有美学价值或实用性的物品或系统，它本身也可以被视为一种设计。换句话说，设计过程也需要经过规划、组织、分析和创造等多个环节来实现最终的目标。这些过程中所涉及的决策和选择都需要谨慎考虑，以确保最终产品或系统能够满足用户需求并达到预期效果。因此，设计本身也需要有一个良好的设计，以确保整个过程能够顺利进行并达到最佳效果。
+我是平面设计师—夏海比比，目前在深圳一家品牌营销公司工作，我主要对版式，字体设计，品牌营销感兴趣，我不懂代码，但我很认同开源精神，所以这个博客完全开源，博客里的内容，主要是我在顺风中笑，逆风中闹。写博客的人也不多，我也不在意能输出什么，写在这里的文字只是记录，只是让自己的一部分能够活在互联网上，所以你会在这里看到一个真实透亮的人。
 
-对我来说，设计是一种创造性的过程，涉及到将想法和概念转化为实际可见的形式。这包括了从最初的草图、模型到最终的产品或服务的设计和开发过程。设计需要对不同领域的知识有一定了解，例如艺术、科技、市场等等，同时也需要考虑使用者的需求和体验。对于我来说，设计是一种独特的视角和思维方式，需要不断学习和探索。
+如果你一定想要给我留言的话，请多说好听的话，我这人心态不好，听不得不好看的留言。所以如果我的内容让你很不爽，那你最好给我闭上你的嘴，退出去就好。本站的建站时间是2019年2年16号，在这个建站的过程得到了很多好朋友的鼓励与支持。其中对本站运行起到最大帮助的人是[Jack Yang 前端工程师](http://jacklove.ddns.net:8090),每一次我心血来潮想要来搞博客里，其本都会把这个博客给搞崩溃。主要靠他来救的场子，所以他对本站来说很重要，也是本站的首席友链交换。Jack Yang也有[博客](http://jacklove.ddns.net:8090)，如果你感兴趣可以过去看看，就这样。
 
-所以我一直在尝试能做出好的设计，所以便有了这个博客与我留在这个博客中的文字，网络很大 ，我想要通过这个博客把我的设计思路和经验分享给更多的人。也希望能够通过这个博客与其他设计师交流，互相学习，共同进步。我相信，只有不断地学习和尝试，才能做出更好的设计作品。
+I am a graphic designer, Rick, currently working in a brand marketing company in Shenzhen. I am primarily interested in layout, typography design, and brand marketing. Although I do not understand code, I fully endorse the open-source spirit, which is why this blog is entirely open-source. The content of my blog mainly reflects my experiences and thoughts through the ups and downs of life. 
 
-When I first read the quote by Kenya Hara, "Explaining design is also a kind of design," I realized that design is not just about creating aesthetically pleasing or functional products or systems. It can also be seen as a design itself. In other words, the design process requires careful planning, organization, analysis, and creativity to achieve its ultimate goal. The decision-making and choices involved in these processes need to be carefully considered to ensure that the final product or system meets user needs and achieves the desired effect. Therefore, a good design is also needed for the design itself to ensure that the entire process runs smoothly and achieves optimal results.
-
-For me, design is a creative process that involves translating ideas and concepts into tangible forms. This includes designing and developing products or services from initial sketches and models to final versions. Design requires an understanding of knowledge in different fields such as art, technology, marketing, among others while considering user needs and experience. For me, design is a unique perspective and way of thinking that requires constant learning and exploration.
-
-So I have been trying to make good designs which led me to create this blog where I share my design ideas and experiences with more people. I hope to exchange ideas with other designers through this blog, learn from each other, and progress together. I believe that only through continuous learning and experimentation can we produce better design works.
-
-2023年3月4日
+As a blogger, I don't expect to produce any significant output or receive negative comments. Therefore, if you must leave me a message, please be kind with your words. If my content offends you, it's best to exit quietly. This blog was established on February 16th, 2019 and has received a lot of encouragement and support from good friends during the process. One person who has been most helpful in keeping this site up and running is Jack Yang, a front-end engineer. Whenever I have trouble with the site's functionality, he always comes through to help me out. He is essential to this site and serves as its chief friend-link exchange partner. [Jack Yang](http://jacklove.ddns.net:8090) also has his own blog that you might be interested in checking out.
