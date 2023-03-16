@@ -15,7 +15,6 @@ As a blogger, I don't expect to produce any significant output or receive negati
 
 ---
 
-**我的朋友**
 <br>
 
 <div style="text-align: center; border: 1px solid #fafafa; padding: 10px; background-color: #f7f7f8; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
