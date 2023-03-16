@@ -41,9 +41,11 @@ In July 2019, following my dreams, I joined Yalongwenlv as a graphic designer. M
 I believe that the process is more important than the outcome and always approach my designs from a branding perspective. To see my work and current projects, visit [my website](https://huiweishijie.com/milestone/). You can also reach me via email at xiahibb@gmail.com.
 
 
+**我的朋友**
+<br>
 
-
-
-
-
+<div style="text-align: center; border: 1px solid #fafafa; padding: 10px; background-color: #f7f7f8; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <p><strong>🧠首席友链<br>Chief Link Exchange Partner</strong></p>
+    <a href="http://jacklove.ddns.net:8090/">Jack Yang 前端工程师</a>
+</div>
 
