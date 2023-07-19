@@ -46,3 +46,15 @@ description: 关于我们身边的毛毛虫的事情，文章内无图，不会�
 #### 总结
 
 推荐阅读原文，非常有意思的文章，引用原文的句子 “The more you know, the more fun this is ” 你知道的越多，这就越有趣。
+
+
+<script>
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://huiweishijie.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
