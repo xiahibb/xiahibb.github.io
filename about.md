@@ -25,7 +25,7 @@ If you like my blog, please follow me and leave a message for communication. If 
 
 **工作经历**
 
-**[点我](https://huiweishijie.com/milestone/)** 正在更新中...........
+**[点我](https://www.ba7khk.com/milestone/)** 正在更新中...........
 
 
 **学生时期的经历**
@@ -38,4 +38,4 @@ I continued my education under Professor Liu Wang at Sichuan Normal University's
 
 In July 2019, following my dreams, I joined Yalongwenlv as a graphic designer. My graduation project "Growth Design" was awarded third prize in environment and spatial design at the Seventh National College Digital Art Design Competition.
 
-I believe that the process is more important than the outcome and always approach my designs from a branding perspective. To see my work and current projects, visit [my website](https://huiweishijie.com/milestone/). You can also reach me via email at xiahibb@gmail.com.
+I believe that the process is more important than the outcome and always approach my designs from a branding perspective. To see my work and current projects, visit [my website](https://www.ba7khk.com/milestone/). You can also reach me via email at xiahibb@gmail.com.
