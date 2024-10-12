@@ -31,7 +31,7 @@ description: 毕业是意味着自己站在之前自己努力后的平台上，�
 
 
 
-<script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
+<script id="dsq-count-scr" src="//www.ba7khk.disqus.com/count.js" async></script>
 
 <div id="disqus_thread"></div>
 <script>
@@ -47,7 +47,7 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 */
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://huiweishijie.disqus.com/embed.js';
+s.src = 'https://www.ba7khk.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
