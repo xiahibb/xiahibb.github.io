@@ -51,7 +51,7 @@ description: 关于我们身边的毛毛虫的事情，文章内无图，不会�
 <script>
 (function() {
 var d = document, s = d.createElement('script');
-s.src = 'https://huiweishijie.disqus.com/embed.js';
+s.src = 'https://www.ba7khk.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
