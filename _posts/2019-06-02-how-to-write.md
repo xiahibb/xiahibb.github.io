@@ -26,7 +26,7 @@ description: 工作常有变，但技能可以旁你一生。
 我相信这些精神上的影响会让我走得更远。这次的实习也让我明白了一个道理，工作常有变，但技能可以旁你一生。
 
 
-<script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
+<script id="dsq-count-scr" src="//www.ba7khk.disqus.com/count.js" async></script>
 
 <div id="disqus_thread"></div>
 <script>
@@ -42,7 +42,7 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 */
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://huiweishijie.disqus.com/embed.js';
+s.src = 'https://www.ba7khk.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
