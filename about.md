@@ -28,14 +28,3 @@ If you like my blog, please follow me and leave a message for communication. If 
 **[点我](https://www.ba7khk.com/milestone/)** 正在更新中...........
 
 
-**学生时期的经历**
-
-2016年，我在世界著名的设计学院德国包豪斯学院的景观园林硕士研究生王瑞珏老师的启蒙下，开始了我的设计之路。在老师的指导下，我开始了学习。期间，作为成都职业技术学院景区开发与管理专业代表团队成员，我参加了2018全国高校数字艺术大赛，并荣获空间设计一等奖。同年，《城市道路空间设计》这个由我们团队创作的作品还入选德国DLA空间环境奖（中国高校唯一获奖团队）。2018年，在四川师范大学旅游设计研究规划院刘旺教授门下进行旅游规划方面的深造达一年之久。2019年，我的工业洗衣粉包装袋设计成功申请到国家外观专利证书，并于4月再次以成都职业技术学院代表身份参加四川省高职院校大学生园林景观技能大赛并夺得三等奖项。同年7月加入雅砻文旅担任平面设计师。最后，在2019年9月毕业时提交的《生长设计》项目荣获第七届全国高校数字艺术设计大赛环境空间类别三等奖。
-
-My name is Xiahibb and I am a graphic designer. In 2016, I began my design journey under the guidance of Professor Wang Ruijue, a landscape architecture master at the world-renowned design school, Bauhaus in Germany. With his guidance, I participated in various design competitions and won multiple awards including the first prize in spatial design at the 2018 National College Digital Art Competition and an honorable mention for our team's work "City Road Space Design" at the German DLA Space Environment Awards (the only Chinese team to receive this award).
-
-I continued my education under Professor Liu Wang at Sichuan Normal University's Tourism Design Research and Planning Institute, where I studied tourism planning for a year. In 2019, I received a national appearance design patent certificate for my industrial laundry detergent packaging design and won third prize in the Sichuan Province College Student Landscape Skills Competition.
-
-In July 2019, following my dreams, I joined Yalongwenlv as a graphic designer. My graduation project "Growth Design" was awarded third prize in environment and spatial design at the Seventh National College Digital Art Design Competition.
-
-I believe that the process is more important than the outcome and always approach my designs from a branding perspective. To see my work and current projects, visit [my website](https://www.ba7khk.com/milestone/). You can also reach me via email at xiahibb@gmail.com.
