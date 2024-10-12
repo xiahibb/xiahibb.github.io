@@ -15,7 +15,7 @@ The content on this blog mainly consists of my musings and experiences, both in 
 
 If you'd like to leave me a message, please feel free to send an email to xiahibb@gmail.com. This website was created on February 16, 2019, and I received a lot of encouragement and support from great friends during its development. Among them, [Jack Yang, a front-end engineer](http://jacklove.ddns.net:8090), played a significant role in helping this site run smoothly. Whenever I had a whim to work on my blog, he was always there to rescue it from crashing. He's vital to this site and serves as the chief link exchange partner. Jack Yang also has a [blog](http://jacklove.ddns.net:8090), so feel free to check it out if you're interested. That's it.
 
-2024 年 10 月 12 日，本博客在中止了快一年后有幸得到了业余无线电爱好者电台呼号 BG2GGH 的帮助，得已重启，新的开始...
+2024 年 10 月 12 日，本博客在中止了快一年后有幸得到了业余无线电友台的帮助，得已重启，这是新的开始...
 
 
 ---
