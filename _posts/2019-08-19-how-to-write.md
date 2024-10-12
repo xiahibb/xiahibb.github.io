@@ -20,7 +20,7 @@ description: 好的电影就是这样总是让人难以忘怀。
 但真实的情况不是这样的，哈哈哈，做设计的也好，玩艺术的也好，大家都好独特，谁没事想和你谈论这些哟！想得大多是，"为什么不这样做","你这个做得好土"，"我这个意思你没明白"。这才是真实的生活。
 
 
-<script id="dsq-count-scr" src="//huiweishijie.disqus.com/count.js" async></script>
+<script id="dsq-count-scr" src="//www.ba7khk.disqus.com/count.js" async></script>
 
 <div id="disqus_thread"></div>
 <script>
@@ -36,7 +36,7 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 */
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://huiweishijie.disqus.com/embed.js';
+s.src = 'https://www.ba7khk.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
