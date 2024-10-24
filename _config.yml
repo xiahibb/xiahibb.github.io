@@ -2,7 +2,7 @@
 title: 夏海比比 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "关于设计与摄影，一个95后的个人博客"  # 一句话描述你的博客
+description: "关于设计与摄影，一个95后的个人博客。feedId:69762234843928576+userId:41663018594440192"  # 一句话描述你的博客
 baseurl: ""
 url: "http://www.ba7khk.com"  # 此处填写你的博客地址 
 
@@ -63,6 +63,5 @@ bing_verify:
 # Links to include in footer navigation
 google-site-verification: google3643de2f0ecebcc4.html
 
-feedId:69762234843928576+userId:41663018594440192
 
 
