@@ -11,7 +11,7 @@ I am a graphic designer—Xiahibb—currently working at a brand marketing compa
 
 ### Friend Links
 
-本站的建站时间是 2019 年 2 月 16 号，在这个建站的过程得到了很多好朋友的鼓励与支持。其中对本站运行起到最大帮助的人是[Jack Yang 前端工程师](http://jacklove.ddns.net:8090),每一次我心血来潮搞博客时，都会把这个博客搞崩溃。主要靠他来救的场子，所以他对本站来说很重要，也是本站的首席友链交换。Jack Yang也有[博客](http://jacklove.ddns.net:8090)，如果你感兴趣可以过去看看，就这样。
+本站的建站时间是 2019 年 2 月 16 号，在这个建站的过程得到了很多好朋友的鼓励与支持。其中对本站运行起到最大帮助的人是 Jack Yang 前端工程师,每一次我心血来潮搞博客时，都会把这个博客搞崩溃。主要靠他来救的场子，所以他对本站来说很重要，也是本站的首席友链交换。Jack Yang也有博客，如果你感兴趣可以过去看看，就这样。
 
 This site was established on February 16, 2019, and during the process of building it, I received a lot of encouragement and support from many good friends. The person who has been the most helpful in keeping this site running is Jack Yang, Front-end Engineer. Whenever I got the urge to mess around with the blog, it would often crash, and he would come to the rescue, making him very important to this site. He is also the chief link exchange partner for this blog. Jack Yang has his own blog as well, so feel free to check it out if you're interested. That's all!
 
