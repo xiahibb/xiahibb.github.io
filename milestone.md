@@ -25,3 +25,12 @@ If you'd like to leave me a message, please feel free to send an email to xiahib
     <a href="http://jacklove.ddns.net:8090/">Jack Yang 前端工程师</a>
 </div>
 
+
+
+---
+
+<div style="text-align: center; border: 1px solid #fafafa; padding: 10px; background-color: #f7f7f8; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <p><strong>🧠ham友链<br>Chief Link Exchange Partner</strong></p>
+    <a href="https://bd6mm.cn/blog/">BD6MM</a>
+</div>
+
